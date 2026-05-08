@@ -10,12 +10,14 @@ Motorcycle lift designed to be mounted onto the hitch of a car for transport and
 
 <h3>My Contributions</h3>
 
-Research
+<h4>Research</h4>
+
 - Investigated lifting mechanisms, hitch/shank concepts, and weld design fundamentals.
 - Researched vehicle hitch specifications and load‑rating requirements.
 - Explored FEA approaches for welded joints and structural members.
 
-Design
+<h4>Design</h4>
+
 - Created concept sketches and full CAD assemblies.
 - Designed the shank, base plate, winch system, slider mechanism, and platform options.
 - Converted early concepts into manufacturable components.
@@ -30,11 +32,13 @@ Design
 <br/> Technical Drawing
 <br />
 
-Documentation
+<h4>Documentation</h4>
+
 - Produced PDR, MCR, and PCR reports, design specifications, and project proposals.
 - Maintained meeting notes and welding documentation.
 
-Modification
+<h4>Modification</h4>
+
 - Refined assemblies and corrected non‑manufacturable parts.
 - Implemented design revisions and improved component interfaces.
 
@@ -51,7 +55,8 @@ Modification
   </em></div>
 </p>
 
-Analysis
+<h4>Analysis</h4>
+
 - Performed Excel stress calculations and free‑body diagrams.
 - Conducted SolidWorks and Ansys FEA (structural, dynamic, modal).
 - Validated FEA results using hand calculations and Matlab checks.
@@ -88,7 +93,8 @@ Analysis
   (lumped mass and reduced stiffness representation), while ANSYS used a full 3D finite‑element model with more accurate boundary conditions.
   </em></div>
 
-Manufacturing
+<h4>Manufacturing</h4>
+
 - Produced manufacturing drawings for the shank tube, winch rods, hook points, and welded assemblies.
 - Prepared fabrication packages, secured welding approval, and cut physical parts.
 
@@ -107,11 +113,12 @@ Manufacturing
 
 <p align="center"><em>Assembly process and final manufactured component.</em></p>
 
-Inspection
+<h4>Inspection</h4>
+
 - Completed inspection reports and verified fabricated components against drawings.
 - Ensured dimensional accuracy and weld‑quality compliance.
 
-Testing
+<h4>Testing</h4>
 
 - Organizing and interpreting the raw test data.
 - Recalculating deflection values using correct load and geometry relationships.
