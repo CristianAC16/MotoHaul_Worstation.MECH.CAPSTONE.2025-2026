@@ -1,12 +1,22 @@
 <h1>MotoHaul Worstation</h1>
 <h2>Mechanical Engineering Capstone 2025-2026</h2>
 <h3>Description</h3>
-Motorcycle lift designed to be mounted onto the hitch of a car for transport and maintenance of a 300lbs motorcycle.
-
+A hitch‑mounted motocross transport and service system designed to safely carry a 250–300 lb motorcycle and function as a trackside maintenance workstation, fully aligned with the project’s engineering requirements and verification plan.
+</br>
 <p align="center">
 <img src="link..." height="80%" width="80%" alt="Conceptual CAD"/>
 <br/> Overall Look of Design
-<br />
+</p>
+
+<h3>Project Context</h3>
+
+This capstone project required the design, fabrication, and testing of a multi‑functional device that mounts to a standard 2‑inch vehicle receiver hitch. A budget of 800$ was given.
+The MotoHaul Workstation integrates:
+- A secure motorcycle transport system
+- Tie‑down and wheel‑chock safety systems
+- A manufacturable steel‑tube frame with a required safety factor ≥ 2.0
+
+These requirements guided every design, analysis, and manufacturing decision.
 
 <h3>My Contributions</h3>
 
