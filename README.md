@@ -3,8 +3,9 @@
 <h3>Description</h3>
 A hitch‑mounted motocross transport and service system designed to safely carry a 250–300 lb motorcycle and function as a trackside maintenance workstation, fully aligned with the project’s engineering requirements and verification plan.
 </br>
+<br>
 <p align="center">
-<img src="link..." height="80%" width="80%" alt="Conceptual CAD"/>
+<img src="https://i.imgur.com/RAChJKl.png" height="80%" width="80%" alt="Conceptual CAD"/>
 <br/> Overall Look of Design
 </p>
 
@@ -33,12 +34,12 @@ These requirements guided every design, analysis, and manufacturing decision.
 - Converted early concepts into manufacturable components.
 
 <p align="center">
-<img src="link..." height="80%" width="80%" alt="Final Structure"/>
+<img src="https://i.imgur.com/PshsTYl.png" height="80%" width="80%" alt="Final Structure"/>
 <br/> Final Design
 <br />
 
 <p align="center">
-<img src="link..." height="80%" width="80%" alt="Technical Drawing"/>
+<img src="https://i.imgur.com/YFxZ8Fw.png" height="80%" width="80%" alt="Technical Drawing"/>
 <br/> Technical Drawing
 <br />
 
@@ -53,11 +54,12 @@ These requirements guided every design, analysis, and manufacturing decision.
 - Implemented design revisions and improved component interfaces.
 
 <p align="Center">
-  <img src="link..." height="250px" alt="Pre - Slider Assembly"/>
-  <img src="link..." height="250px" alt="Post - Slider Assembly"/>  
+  <img src="https://i.imgur.com/mkFIwXB.png" height="500px" alt="Pre - Slider Assembly"/>
+  <img src="https://i.imgur.com/7gN5vhC.png" height="500px" alt="Post - Slider Assembly"/>  
 <br/> 
   <div align="center"><em>
     Slider Modifications
+  <br>• Added Chain Bolt Tensioners
   <br>• Removed excess material to reduce weight and improve manufacturability.
   <br>• Re-used cut material as gussets to increase stiffness without adding cost.
   <br>• Added shims to improve alignment and reduce play in the slider mechanism.
