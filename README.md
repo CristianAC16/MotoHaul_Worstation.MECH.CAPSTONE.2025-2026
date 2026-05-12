@@ -35,7 +35,12 @@ These requirements guided every design, analysis, and manufacturing decision.
 
 <p align="center">
 <img src="https://i.imgur.com/PshsTYl.png" height="80%" width="80%" alt="Final Structure"/>
-<br/> Final Design
+<br/> Final Design (CAD)
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/PuWBxn8.jpeg" height="80%" width="80%" alt="Final Structure"/>
+<br/> Final Design (Manufactured)
 <br />
 
 <p align="center">
@@ -87,8 +92,8 @@ These requirements guided every design, analysis, and manufacturing decision.
     <img src="https://i.imgur.com/Q5Uotvm.png" height="250px">
     <img src="https://i.imgur.com/LvD9TrY.png" height="250px">
   </p>
-  
   <p align="center"><em>Braking load (left) and speed bump load (right) FEA results.</em></p>
+  
   <p align="center">
     <img src="https://i.imgur.com/hnLmetc.png" height="400px">
   </p>
@@ -96,7 +101,7 @@ These requirements guided every design, analysis, and manufacturing decision.
   <p align="center"><em>First mode shape from modal analysis.</em></p>
   
   <p align="center">
-    <img src="YOUR_MATLAB_PLOT..." height="260px">
+    <img src="https://i.imgur.com/Y7tfSiy.png" height="400px">
   </p>
 
   <div align="center"><em>
