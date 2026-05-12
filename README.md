@@ -54,12 +54,12 @@ These requirements guided every design, analysis, and manufacturing decision.
 - Implemented design revisions and improved component interfaces.
 
 <p align="Center">
-  <img src="https://i.imgur.com/mkFIwXB.png" height="500px" alt="Pre - Slider Assembly"/>
+  <img src="https://i.imgur.com/Z6Uv1I9.png" height="500px" alt="Pre - Slider Assembly"/>
   <img src="https://i.imgur.com/7gN5vhC.png" height="500px" alt="Post - Slider Assembly"/>  
 <br/> 
   <div align="center"><em>
     Slider Modifications
-  <br>• Added Chain Bolt Tensioners
+  <br>• Added chain‑bolt tensioners to stabilize the rear bolt and eliminate unwanted play in the slider assembly.
   <br>• Removed excess material to reduce weight and improve manufacturability.
   <br>• Re-used cut material as gussets to increase stiffness without adding cost.
   <br>• Added shims to improve alignment and reduce play in the slider mechanism.
@@ -84,13 +84,13 @@ These requirements guided every design, analysis, and manufacturing decision.
   5. **[Modal Analysis](ca://s?q=Modal_analysis_explanation)** — Identified natural frequencies to avoid resonance during operation.
  
   <p align="center">
-    <img src="YOUR_BRAKING_IMAGE.png" height="250px">
-    <img src="YOUR_SPEEDBUMP_IMAGE.png" height="250px">
+    <img src="https://i.imgur.com/Q5Uotvm.png" height="250px">
+    <img src="https://i.imgur.com/LvD9TrY.png" height="250px">
   </p>
   
   <p align="center"><em>Braking load (left) and speed bump load (right) FEA results.</em></p>
   <p align="center">
-    <img src="YOUR_MODAL_IMAGE.png" height="250px">
+    <img src="https://i.imgur.com/hnLmetc.png" height="400px">
   </p>
   
   <p align="center"><em>First mode shape from modal analysis.</em></p>
