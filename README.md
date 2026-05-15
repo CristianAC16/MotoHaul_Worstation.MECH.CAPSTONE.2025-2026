@@ -107,7 +107,7 @@ These requirements guided every design, analysis, and manufacturing decision.
   <div align="center"><em>
   <p align="center">MATLAB validation of the modal analysis</p>
   The difference between MATLAB and ANSYS results is expected because the MATLAB model used simplified assumptions 
-  (lumped mass and reduced stiffness representation), while ANSYS used a full 3D finite‑element model with more accurate boundary conditions.
+  (lumped mass and reduced stiffness representation), while ANSYS used a full 3D finite‑element model with more accurate boundary conditions. This discrepancy led to an underestimation of the system.
   </em></div>
 
 <h4>Manufacturing</h4>
