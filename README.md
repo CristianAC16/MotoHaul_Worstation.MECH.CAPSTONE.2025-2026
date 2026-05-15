@@ -89,8 +89,8 @@ These requirements guided every design, analysis, and manufacturing decision.
   5. **[Modal Analysis](ca://s?q=Modal_analysis_explanation)** — Identified natural frequencies to avoid resonance during operation.
  
   <p align="center">
-    <img src="https://i.imgur.com/Q5Uotvm.png" height="250px">
-    <img src="https://i.imgur.com/LvD9TrY.png" height="250px">
+    <img src="https://i.imgur.com/Q5Uotvm.png" height="280px">
+    <img src="https://i.imgur.com/LvD9TrY.png" height="280px">
   </p>
   <p align="center"><em>Braking load (left) and speed bump load (right) FEA results.</em></p>
   
